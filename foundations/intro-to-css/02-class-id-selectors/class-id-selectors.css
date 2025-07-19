@@ -1,0 +1,16 @@
+p {
+    background-color: pink;
+    font-family: Verdena, "Dejavo Sans", sans-serif;
+}
+#box2 {
+    font-size: 32px;
+    color: blue;
+}
+.box3 {
+    font-size: 24px;
+}
+#box4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
